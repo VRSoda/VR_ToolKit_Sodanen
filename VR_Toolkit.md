@@ -22,7 +22,7 @@
 <b>사용 방법</b>
 
 <p>1. 단축키[N]을 눌러 메뉴를 표시</p>
-<p>2. 글꼴 파일을 지정  = C:\Users사용자명\Desktop\Font\JKG-M_3.ttc</p>
+<p>2. 글꼴 파일을 지정  = C:\Users\사용자명\Desktop\Font\JKG-M_3.ttc</p>
 <p>3. [텍스트 입력] - [Create 클릭]</p>
 <p>4. [저장할 폴더를 지정] - [Save 버튼 클릭] - [.FBX 형식으로 저장]</p>
 
