@@ -6,7 +6,7 @@
   
 </a>1. 3D Text Maker:</h2>
 
-<a href="https://codeload.github.com/VRSodanen/VR_ToolKit_Sodanen/zip/refs/heads/main">Download</a>
+<a href="https://github.com/VRSodanen/VR_ToolKit_Sodanen/raw/main/3DTextMakerAddOn.zip">Download</a>
 <p>파일 다운로드</p>https://github.com/dmiyamo3/BlenderScripts/tree/master/3DTextMaker
 
 <p>Korean language patch</p>
