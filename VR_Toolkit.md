@@ -8,7 +8,7 @@
 
 <p>원본 링크 : https://github.com/dmiyamo3/BlenderScripts/tree/master/3DTextMaker</p>
 
-<p>문자 파티클 애니메이션을 만들때 사용가능한 블렌더 애드온</p>
+<p>문자 애니메이션을 만들때 사용 가능한 블렌더 애드온</p>
 <a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/20365210/112731146-e70a6e00-8f78-11eb-98d1-79d0c4c2ee6b.png"><img src="https://user-images.githubusercontent.com/20365210/112731146-e70a6e00-8f78-11eb-98d1-79d0c4c2ee6b.png" style="max-width:50%;"></a>
 </p>
 
