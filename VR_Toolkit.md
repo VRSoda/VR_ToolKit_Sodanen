@@ -1,7 +1,5 @@
 # VR_ToolKit
 
-<p>VR_ToolKit</p>
-
 <h2><a id="user-content-screenshots" class="anchor" aria-hidden="true" href="#screenshots"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg>
 
 </a>1. 3D Text Maker:</h2>
@@ -33,4 +31,4 @@
 </p><a target="_blank" rel="noopener noreferrer" href="https://user-images.githubusercontent.com/20365210/112731150-ea055e80-8f78-11eb-86cd-82c700ef81e8.png"><img src="https://user-images.githubusercontent.com/20365210/112731150-ea055e80-8f78-11eb-86cd-82c700ef81e8.png" style="max-width:50%;"></a>
 
 <b>중요 사항</b>
-<p>위 사진은 사용 예시이며 Text상태에서 변환되어지기 때문에 최적화가 안되는 문제가 있음.<br>만약[3D Text Maker] 를 사용하게 된다면 [Bmesh Tool]를 사용하여 최적화를 하고 저장하는것이 최적화면에서 좋음.</p>
+<p>위 사진은 사용 예시이며 TEXT 상태에서 변환 되어지기 때문에 최적화가 안되는 문제가 있음.<br>만약 [3D Text Maker]를 사용하게 된다면 [Bmesh Tool]를 사용하여 최적화를 하고 저장하는것이 최적화적인 면에서 좋음.</p>
